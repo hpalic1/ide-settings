@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="XHTML" />
     </extensionMap>
